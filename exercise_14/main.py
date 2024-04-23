@@ -2,6 +2,10 @@ import mlflow
 import os
 import hydra
 from omegaconf import DictConfig, OmegaConf
+import logging
+
+logging.basicConfig(level = logging.INFO, format = "%(asctime)-15s %(message)s")
+logger = logging.getLogger()
 
 
 # This automatically reads in the configuration
@@ -23,6 +27,7 @@ def go(config: DictConfig):
         #assert isinstance(config["main"]["execute_steps"], list)
         steps_to_execute = list(config["main"]["execute_steps"])
 
+    logger.info(f"DOWNLOADING...")
     # Download step
     if "download" in steps_to_execute:
 
@@ -37,6 +42,7 @@ def go(config: DictConfig):
             }
         )
 
+    logger.info(f"PREPROCESSING...")
     if "preprocess" in steps_to_execute:
 
         ## YOUR CODE HERE: call the preprocess step
