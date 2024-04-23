@@ -34,7 +34,7 @@ def go(config: DictConfig):
                 "artifact_name": "raw_data.parquet",
                 "artifact_type": "raw_data",
                 "artifact_description": "Data as downloaded"
-            },
+            }
         )
 
     if "preprocess" in steps_to_execute:
