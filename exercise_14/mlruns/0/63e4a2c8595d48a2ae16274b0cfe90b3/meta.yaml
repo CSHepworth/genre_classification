@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/genre_classification/exercise_14/mlruns/0/63e4a2c8595d48a2ae16274b0cfe90b3/artifacts
+end_time: 1713904870827
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63e4a2c8595d48a2ae16274b0cfe90b3
+run_name: skillful-yak-843
+run_uuid: 63e4a2c8595d48a2ae16274b0cfe90b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713904869370
+status: 4
+tags: []
+user_id: cooperhepworth
