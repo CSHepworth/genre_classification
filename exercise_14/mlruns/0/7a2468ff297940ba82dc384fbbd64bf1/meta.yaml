@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/genre_classification/exercise_14/mlruns/0/7a2468ff297940ba82dc384fbbd64bf1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 7a2468ff297940ba82dc384fbbd64bf1
+run_uuid: 7a2468ff297940ba82dc384fbbd64bf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713903132559
+status: 1
+tags: []
+user_id: cooperhepworth
