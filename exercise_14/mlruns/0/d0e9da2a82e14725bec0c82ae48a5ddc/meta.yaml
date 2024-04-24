@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/genre_classification/exercise_14/mlruns/0/d0e9da2a82e14725bec0c82ae48a5ddc/artifacts
+end_time: 1713927004091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0e9da2a82e14725bec0c82ae48a5ddc
+run_name: kindly-sheep-994
+run_uuid: d0e9da2a82e14725bec0c82ae48a5ddc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713926832607
+status: 3
+tags: []
+user_id: cooperhepworth

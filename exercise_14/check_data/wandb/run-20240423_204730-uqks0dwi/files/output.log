@@ -1,0 +1,10 @@
+============================= test session starts ==============================
+platform linux -- Python 3.9.19, pytest-6.2.2, py-1.11.0, pluggy-0.13.1 -- /home/cooperhepworth/miniconda3/envs/mlflow-48c0e9de4b7929f5bdda3d54de85647b7f9c896a/bin/python
+cachedir: .pytest_cache
+rootdir: /home/cooperhepworth/genre_classification/exercise_14/check_data
+collecting ... collected 4 items
+
+test_data.py::test_column_presence_and_type PASSED
+test_data.py::test_class_names PASSED
+test_data.py::test_column_ranges PASSED
+test_data.py::test_kolmogorov_smirnov PASSED
