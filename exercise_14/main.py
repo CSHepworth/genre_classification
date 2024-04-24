@@ -71,7 +71,6 @@ def go(config: DictConfig):
                 "artifact_root": "data",
                 "artifact_type": "segregated_data",
                 "test_size": config["data"]["test_size"],
-                "random_state": config["data"]["random_state"],
                 "stratify": config["data"]["stratify"]
             }
         )
