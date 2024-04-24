@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/genre_classification/exercise_14/mlruns/0/95eaaf5438ac40b0a9d6576aae9035e3/artifacts
+end_time: 1713925985668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95eaaf5438ac40b0a9d6576aae9035e3
+run_name: rumbling-stork-31
+run_uuid: 95eaaf5438ac40b0a9d6576aae9035e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713925984580
+status: 4
+tags: []
+user_id: cooperhepworth
