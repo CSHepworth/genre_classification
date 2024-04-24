@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/genre_classification/exercise_14/mlruns/0/434d35707b34448a8341d479823c60d4/artifacts
+end_time: 1713926746436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 434d35707b34448a8341d479823c60d4
+run_name: bright-snipe-382
+run_uuid: 434d35707b34448a8341d479823c60d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713926684474
+status: 4
+tags: []
+user_id: cooperhepworth

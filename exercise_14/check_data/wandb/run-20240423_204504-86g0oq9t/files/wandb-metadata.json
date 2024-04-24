@@ -1,0 +1,31 @@
+{
+    "os": "Linux-6.2.6-76060206-generic-x86_64-with-glibc2.35",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-04-24T02:45:05.168286",
+    "startedAt": "2024-04-24T02:45:04.394454",
+    "docker": null,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "-s",
+        "-vv",
+        ".",
+        "--reference_artifact",
+        "exercise_14/preprocessed_data.csv:latest",
+        "--sample_artifact",
+        "preprocessed_data.csv:latest",
+        "--ks_alpha",
+        "0.05"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/CSHepworth/genre_classification.git",
+        "commit": "6627f106ecb8da533c91f55cc7ac7883e5a70dff"
+    },
+    "email": "sircooperhepworth@gmail.com",
+    "root": "/home/cooperhepworth/genre_classification",
+    "host": "pop-os",
+    "username": "cooperhepworth",
+    "executable": "/home/cooperhepworth/miniconda3/envs/mlflow-48c0e9de4b7929f5bdda3d54de85647b7f9c896a/bin/python"
+}
