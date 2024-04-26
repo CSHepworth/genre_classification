@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/genre_classification/exercise_14/mlruns/0/e5a901d0c2ed4d1daf9de6927854a697/artifacts
+end_time: 1714109356073
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5a901d0c2ed4d1daf9de6927854a697
+run_name: invincible-trout-451
+run_uuid: e5a901d0c2ed4d1daf9de6927854a697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714109288990
+status: 3
+tags: []
+user_id: cooperhepworth
